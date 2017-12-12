@@ -1,0 +1,8 @@
+.DS_Store
+.thumbs.db
+node_modules/
+dist/
+npm-debug.log*
+_trash/
+data/
+package-lock.json
